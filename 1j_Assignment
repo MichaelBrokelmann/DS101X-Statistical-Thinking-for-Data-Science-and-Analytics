@@ -1,0 +1,34 @@
+When a company does a data mashup it is:
+    Using its own data to create a data product
+    Using geographical data to create a map
+    Using data from multiple, disparate sources to create a data product -- correct
+
+Data conditioning involves:
+    Ignoring missing data points
+    Getting data into a state where it is usable -- correct
+    Dealing with only one data source
+
+The MapReduce approach is a strategy for:
+    Processing a large data set using a large number of computers -- correct
+    Processing a large data set using a desk-top
+    Illustrating spatial patterns in a reduced sub-set of data set on a map
+
+The term “stream processing” refers to:
+    Processing data in small batches
+    Processing data as it arrives -- correct
+    Processing data quickly in a computing cluster
+
+Machine learning almost always requires:
+    A training set of data -- correct
+    The use of Mechanical Turk
+    Development of a recommendation engine
+
+The role of Statistics in Data Science:
+    Has been replaced by machine learning
+    Is vital for understanding the significance of trends in data -- correct
+    Is to supplement distributed computing
+
+Making data tell its story:
+    Is always a visual display of numbers
+    Is best done without animations
+    Involves creating visualizations -- correct
