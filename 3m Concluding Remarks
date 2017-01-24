@@ -1,0 +1,19 @@
+Descriptive analytics can involve metrics or loss functions.
+  True correct
+  False
+
+Changing a metric can give you a completely different estimator or data summary.
+  True correct
+  False
+
+Human interpretability of a descriptive model is not important.
+  True
+  False correct
+
+Multiple layers of descriptive analytics may make results more human interpretable.
+  True correct
+  False
+
+There is always a best way to summarize a data set.
+  True
+  False correct 
