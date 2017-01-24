@@ -1,0 +1,25 @@
+A bank would like to split loans into two groups—those that are likely to default and those that are unlikely—using a set of attributes like user FICO scores, age, and default history. Which type of data analytics is needed?
+  Descriptive Analytics
+  Predictive Analytics -- correct
+  Prescriptive Analytics
+  None of the above
+
+The same company would like to use a model to determine a FICO score cutoff for issuing loans. What type of model would they use?
+  Descriptive Analytics
+  Predictive Analytics
+  Prescriptive Analytics -- correct
+  None of the above
+
+Finally, the bank would like to study its customer base and group customers according to shared attributes. This is an example of which type of analytics?
+  Descriptive Analytics -- correct
+  Predictive Analytics
+  Prescriptive Analytics
+  None of the above
+
+Some methods do not fit neatly into one category or another. Trees give predictions based on a series of binary splits of the attribute space. For example, a probability of default could be predicted through a series of if-then statements: if {FICO
+700} then {prob default = .02}; else if {FICO
+700} then {prob default = .10}. This is an example of:
+  Descriptive Analytics and Predictive Analytics -- correct
+  Predictive Analytics and Prescriptive Analytics
+  Prescriptive Analytics and Descriptive Analytics
+  A combination of all three 
