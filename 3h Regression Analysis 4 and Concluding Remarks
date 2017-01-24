@@ -1,0 +1,11 @@
+The magnitude of regression coefficients is a good indicator of their importance.
+  True
+  False correct
+
+The fitted regression line using a sample of data gives imperfect predictions for future observations due to only sampling variability.
+  True
+  False correct
+
+Extrapolation is dangerous as the form of association between X and Y outside the range where the data were collected may be different from that within the range.
+  True correct
+  False 
