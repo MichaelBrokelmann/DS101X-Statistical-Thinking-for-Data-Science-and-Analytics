@@ -1,0 +1,26 @@
+How many unique words are in your model?
+  11
+  10
+  9 correct
+  8
+
+Bag of words models are a fundamental part of computational text modeling. Indicate whether each of the statements about a bag of words model is true or false:
+The order of words in a document does not matter.
+  True correct
+  False
+
+Different documents can produce the same bag of words representation.
+  True correct
+  False
+
+Grammar is kept in a bag of words model.
+  True
+  False correct
+
+Bag of words models are used because they are more computationally tractable than document representations with word/location pairs.
+  True correct
+  False
+
+Scaling problems can occur when one document is much longer than another.
+  True
+  False correct
