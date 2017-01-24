@@ -1,0 +1,33 @@
+Which penalty is heavier when Y is close to your guess?
+  Squared error
+  Absolute error correct
+
+What about when Y is far from your guess?
+  Squared error correct
+  Absolute error 
+  
+You are likely familiar with estimators that use these metrics, such as the mean and the median. The mean value, M, of a set of n numbers, Y1, Y2, … Yn, is M = (Y1 + … + Yn)/n. It is also the number that minimizes the squared error (Y1 - M)*(Y1 - M) + … + (Yn - M)*(Yn - M).
+Compute the mean of -1, 0, 1, 2, 23.
+  5
+
+The median, m, of those same numbers is the value where half of the values are above and half are below. It is also the value that minimizes the absolute error, |Y1 - m| + … + |Yn - m|.
+Compute the median of -1, 0, 1, 2, 23.
+  1
+
+Compute the squared error and absolute errors for both the median and the mean.
+Squared error for median:
+  490
+
+Absolute error for median:
+  26
+
+Squared error for mean:
+  410
+
+Absolute error for mean:
+  36
+  
+Squared error(M) = 6*6 + 5*5 + 4*4 + 3*3 + 18*18 = 410
+Absolute error(M) = 6 + 5 + 4 + 3 + 18 = 36
+Squared error(m) = 2*2 + 1*1 + 0 + 1*1 + 22*22 = 490
+Absolute error(m) = 2 + 1 + 0 + 1 + 22 = 26
