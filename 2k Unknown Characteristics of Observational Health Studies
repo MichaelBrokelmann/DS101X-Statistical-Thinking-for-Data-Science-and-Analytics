@@ -1,0 +1,23 @@
+Among individuals who do not take supplement A, the risk (probability) of being infected by the seasonal flu is 0.2 during the flu season. What is the corresponding odds value? ( Hint: Odds is defined as P(A)/[1-P(A)] ).
+  1/6
+  1/5
+  1/4 -- correct
+  1/3
+
+A scientific paper found that taking supplement A will reduce the odds of being infected by the seasonal flu by half. Which of the following statement is true?
+  The odds ratio between taking supplement A and without taking supplement A is 1/2.  -- correct
+  The odds ratio between taking supplement A and not taking supplement A is 2.
+  The risk of getting the flu after taking supplement A is half of that without taking supplement A.
+  The risk of getting the flu after taking supplement A is twice of that without taking supplement A.
+
+Why are the characteristics of estimates derived from observational health studies unknown?
+  We do not have full control or knowledge of the sampling process.
+  We do not know whether there are unmeasured confounding factors. 
+  We do not know whether there are any systematic measurement errors in the observed data.
+  All of the above. -- correct
+  
+Why do we need to have better understanding of the characteristics of estimates derived from observational health studies?
+  Biased estimates will lead to misrepresented statistical significance. 
+  Unmeasured confounding will lead to spurious association findings.
+  Systematic measurement errors will contribute to poor reproducibility of findings.
+  All of the above.  -- correct
