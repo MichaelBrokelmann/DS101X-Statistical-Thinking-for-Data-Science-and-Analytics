@@ -1,0 +1,23 @@
+Two-way table summarizes joint occurrences of values from any two variables.
+  True
+  False correct
+
+Two variables are said to be associated if certain combinations of values for the two variables occur more or less frequently than expected under independence.
+  True correct
+  False
+
+Under the null hypothesis of independence, the probability of observing a given combination of values for the two variables is 1 divided by the number of possible combinations.
+  True
+  False correct
+
+Rejecting the null hypothesis of independence does not mean there is a strong association between X and Y.
+  True correct
+  False
+
+If a quantitative variable Y is independent with a categorical variable X, the distribution of Y for individuals with one value of X differs substantially from the distribution of Y for individuals with another value of X.
+  True
+  False correct
+
+Analysis of Variance is used to detect differences in the within-group mean of Y between groups defined by X.
+  True correct
+  False 
