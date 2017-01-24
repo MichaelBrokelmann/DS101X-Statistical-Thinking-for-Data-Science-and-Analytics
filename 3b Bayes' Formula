@@ -1,0 +1,11 @@
+Consider the biased coin that produces head 70% of the time from the probability calculation in week 2. One tosses the coin twice. Conditioning on that we know both tosses have the same outcome, what is the probability of that both tosses are tails?
+  0.09
+  0.125
+  0.155 correct
+  0.5
+
+In a box, there are the same number of two kinds of coins: the fair coins (50% chance for head) and the biased coins (70% chance for head). One person randomly selected a coin and tosses it twice. Both tosses are tails. What is the probability that the selected coin is a biased coin?
+  0.125
+  0.265 correct
+  0.375
+  0.5 
