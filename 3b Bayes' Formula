@@ -9,3 +9,8 @@ In a box, there are the same number of two kinds of coins: the fair coins (50% c
   0.265 correct
   0.375
   0.5 
+A mysterious virus is spreading in a city far far away. 6% of households who have pets will be affected, while 1% of households without pets will be affected. In this city, about 20% of the households have pets and 80% don't. Conditioning on a household is affected by this virus, what is the probability that this household has a pet?
+  94%
+  60%
+  50%
+  20%
