@@ -22,5 +22,5 @@ Bag of words models are used because they are more computationally tractable tha
   False
 
 Scaling problems can occur when one document is much longer than another.
-  True
-  False correct
+  True correct
+  False 
